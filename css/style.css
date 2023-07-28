@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+    background-image: url(../img/eight_horns.png);
+}
+
+body h1 {
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    max-width: 800px;
+    padding: 10px;
+}
+
+.container form {
+    margin: auto;
+    background: #b9b7b7;
+    padding: 30px;
+    max-width: 700px;
+    border-radius: 5px;
+}
+
+.container form hr {
+    margin: auto;
+}
+
+.container form label {
+    margin: auto;
+}
+
+.container label {
+    padding: 20px;
+    margin: 0px 100%;
+}
+
+.container input {
+    margin: 5px;
+    width: 120px;
+}
+
+.btn {
+    margin: 5px auto;
+    padding: 20px;
+    box-shadow: 4px 4px rgba(0, 0, 0, .5);
+}
